@@ -1,0 +1,10 @@
+{
+  "name": "Chrome History Search",
+  "description": "Search Chrome browser history from Ulauncher",
+  "developer_name": "Dein Name",
+  "icon": "icon.png",
+  "keywords": ["history"],
+  "default_keyword": "hist",
+  "main": "main.py"
+}
+
