@@ -1,10 +1,10 @@
 {
   "name": "Chrome History Search",
-  "description": "Search Chrome browser history from Ulauncher",
-  "developer_name": "Dein Name",
+  "description": "Search through your Google Chrome browser history",
+  "developer_name": "Andreas Schmid",
   "icon": "icon.png",
-  "keywords": ["history"],
-  "default_keyword": "hist",
+  "options": {},
+  "default_keyword": "h",
+  "categories": ["Tools"],
   "main": "main.py"
 }
-
